@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ruvP --preserve=all *.html ../
+cp -ruv --preserve=all --no-target-directory *.html ../
