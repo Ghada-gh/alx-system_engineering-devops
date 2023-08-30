@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo $(pwd)
 
+=======
+#!/bin/bash
+echo $(realpath .)
+>>>>>>> 740710263549668da08d33886d6daacfe1f60126
