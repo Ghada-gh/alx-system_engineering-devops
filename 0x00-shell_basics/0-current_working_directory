@@ -1,12 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 echo $(pwd)
-
-=======
-#!/bin/bash
-<<<<<<< HEAD
-echo $(realpath .)
->>>>>>> 740710263549668da08d33886d6daacfe1f60126
-=======
-echo $(pwd)
->>>>>>> 9248d4c91f0ed97997ab8f656534f59945241459
