@@ -1,2 +1,2 @@
 #!/bin/bash
-read -a words echo awk '{for(i=1;i<=NF;i++)a[]++}END{for(i in a)if(a[i]==1)print i}' RS=" " <<< "" | sort
+sort | uniq -u
